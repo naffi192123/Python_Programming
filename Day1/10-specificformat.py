@@ -1,0 +1,2 @@
+var = ("On a puppy's sleepy spotted tummy, the sun connects her\n dots. Her back legs tricyle her pink snout of -a-velvet\n church beads with milk a muffle,an eye swims under its lid\n as her brothers tongue takes her ear up like a flower petal.\n \x1B[3mBy Stephen Lindow\x1B[3m")
+print(var)
