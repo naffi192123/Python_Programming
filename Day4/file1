@@ -1,0 +1,47 @@
+File Handling
+1. Write a Python program to read an entire text file.
+2. Write a Python program to read first n lines of a file.
+3. Write a Python program to append text to a file and display the text.
+4. Write a Python program to read last n lines of a file.
+5. Write a Python program to read a file line by line and store it into a list.
+6. Write a Python program to read a file line by line store it into a variable.
+7. Write a Python program to read a file line by line store it into an array.
+8. Write a python program to find the longest words.
+9. Write a Python program to count the number of lines in a text file.
+10. Write a Python program to count the frequency of words in a file.
+11. Write a Python program to get the file size of a plain file.
+12. Write a Python program to write a list to a file.
+13. Write a Python program to copy the contents of a file to another file
+14. Write a Python program to combine each line from first file with the corresponding line in second file.
+15. Write a Python program to read a random line from a file.
+16. Write a Python program to assess if a file is closed or not.
+17. Write a Python program to remove newline characters from a file.
+NumPy:
+1. Write a NumPy program to get the numpy version and show numpy build configuration.
+2. Write a NumPy program to  get help on the add function.
+3. Write a NumPy program to test whether none of the elements of a given array is zero.
+4. Write a NumPy program to test if any of the elements of a given array is non-zero.
+5. Write a NumPy program to test a given array element-wise for finiteness (not infinity or not a Number).
+6. Write a NumPy program to convert a list of numeric value into a one-dimensional NumPy array.
+7. Write a NumPy program to create a 3x3 matrix with values ranging from 2 to 10.
+8. Write a NumPy program to create a null vector of size 10 and update sixth value to 11.
+9. Write a NumPy program to create a array with values ranging from 12 to 38.
+10. Write a NumPy program to reverse an array (first element becomes last).
+11. Write a NumPy program to an array converted to a float type.
+12. Write a NumPy program to create a 2d array with 1 on the border and 0 inside.
+13. Write a NumPy program to add a border (filled with 0's) around an existing array.
+14. Write a NumPy program to create a 8x8 matrix and fill it with a checkerboard pattern.
+15. Write a NumPy program to convert a list and tuple into arrays.
+16. Write a NumPy program to append values to the end of an array.
+17. Write a NumPy program to create an empty and a full array.
+18. Write a NumPy program to convert the values of Centigrade degrees into Fahrenheit degrees. Centigrade values are stored into a NumPy array.
+19. Write a NumPy program to find the real and imaginary parts of an array of complex numbers.
+20. Write a NumPy program to find the number of elements of an array, length of one array element in bytes and total bytes consumed by the elements.
+21. Write a NumPy program to test whether each element of a 1-D array is also present in a second array
+22. Write a NumPy program to find common values between two arrays.
+23. Write a NumPy program to get the unique elements of an array.
+24. Write a NumPy program to find the set difference of two arrays. The set difference will return the sorted, unique values in array1 that are not in array2.
+25. Write a NumPy program to find the set exclusive-or of two arrays. Set exclusive-or will return the sorted, unique values that are in only one (not both) of the input arrays.
+26. Write a NumPy program to find the union of two arrays. Union will return the unique, sorted array of values that are in either of the two input arrays.
+27. Write a NumPy program compare two arrays using numpy.
+28. Write a NumPy program to sort pairs of first name and last name return their indices. (first by last name, then by first name).
